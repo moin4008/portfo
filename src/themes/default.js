@@ -15,6 +15,7 @@ export default {
       text2: "#626970",
       text3: "#575C66",
       footerBackground: "#00012B"
+      
     },
     // Breakpoints for responsive design
     breakpoints: {

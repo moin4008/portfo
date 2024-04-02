@@ -14,6 +14,7 @@ const Button = styled.button`
     border-radius: 10px;
     cursor: pointer;
     transition: all 0.8s ease-in-out;
+    
 `
 const Card = styled.div`
     width: 330px;

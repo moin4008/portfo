@@ -11,6 +11,7 @@ const Document = styled.img`
         cursor: pointer;
         opacity: 0.8;
     }
+    
 `
 
 const Description = styled.div`

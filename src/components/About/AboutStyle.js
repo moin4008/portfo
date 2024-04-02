@@ -16,4 +16,5 @@ export const SocialMediaIcon = styled.a`
   &:hover {
     color: ${({ theme }) => theme.primary};
   }
+  
 `;

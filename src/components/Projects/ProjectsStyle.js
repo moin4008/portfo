@@ -79,6 +79,7 @@ export const ToggleButton = styled.div`
         padding: 6px 8px;
         border-radius: 4px;
     }
+    
 `
 export const Divider = styled.div`
     width: 1.5px;

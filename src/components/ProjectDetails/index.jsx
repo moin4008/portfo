@@ -15,6 +15,7 @@ align-items: top;
 justify-content: center;
 overflow-y: scroll;
 transition: all 0.5s ease;
+
 `;
 
 const Wrapper = styled.div`
